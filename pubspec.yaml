@@ -12,9 +12,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_color_models: ^1.3.0
   flutter_localizations:
     sdk: flutter
-  hsluv: ^1.1.2
 
 dev_dependencies:
   flutter_test:
